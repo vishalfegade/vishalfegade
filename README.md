@@ -1,3 +1,5 @@
+![logo](https://github.com/vishalfegade/vishalfegade/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vishal Fegade</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
